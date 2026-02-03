@@ -1,6 +1,6 @@
 # PentestLab
 
-Personal portable penetration-testing / security-research lab scripts.
+Personal penetration-testing / security-research lab scripts.
 
 ## Scope and intent
 
