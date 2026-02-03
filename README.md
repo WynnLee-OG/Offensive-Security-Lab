@@ -1,4 +1,4 @@
-# PentestLab
+# Offensive Security Lab
 
 Personal penetration-testing / security-research lab scripts.
 
